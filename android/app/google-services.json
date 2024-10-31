@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925133978034",
+    "project_id": "speedtext-84e63",
+    "storage_bucket": "speedtext-84e63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925133978034:android:b4c5db34cb2d390bdc8cab",
+        "android_client_info": {
+          "package_name": "org.speedtext.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcAHk7Ff313g6DMF5QJ4exVpbejTMkMH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
